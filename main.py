@@ -1,7 +1,4 @@
 
-"""
-Cybersecurity Quiz Application - Main Entry Point
-"""
 
 import tkinter as tk
 from quiz_app import CybersecurityQuiz
